@@ -2,7 +2,6 @@
 - Task : De-noise Augmented Image (Noised, Rotated, Transformed)
 - Trained and Implemented De-noising Auto-encoder and De-noising Variational Auto-encoder with encoder and decoder in Res-Net Style from scratch using PyTorch.
 - Trained a condition Variational Auto-encoder to generate one of the classes of MNIST Dataset at Inference time given class label (Generating De-noised Image).
-- [Download the complete PIPELINE zip file including dataset from this link (Augmented and Clean Images)](https://drive.google.com/file/d/1VikXL5hFR1fsiFfZOg3Yuz6tDTU5Sidd)
 
 ## Digit: 0
 ![image](https://github.com/2021514/Deep-Learning-CSE-641/assets/107923239/9e218c10-0272-4116-bb16-7ba348bef9c0)
